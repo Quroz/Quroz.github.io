@@ -1,4 +1,4 @@
-body {
+.indexbackground {
   background-image: url("4-space.jpg");
 }
 
@@ -90,4 +90,16 @@ p {
   transform: translate(-50%, -50%);
   padding: 2rem 5rem;
   background: rgba(79, 65, 109, 0.952);
+}
+
+.CV {
+  background-image: url("MittCV.png");
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.background {
+  background-color: rgba(39, 117, 153, 0.726);
 }
