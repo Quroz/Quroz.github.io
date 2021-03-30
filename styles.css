@@ -1,0 +1,20 @@
+body {
+  background-image: url("eportfölj.jpg");
+}
+
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 70px;
+  font-family: Arial;
+}
+
+div {
+  background-color: rgb(40, 139, 143);
+  height: 50px;
+  width: 50px;
+}
+
+.p1 {
+  color: white;
+}
