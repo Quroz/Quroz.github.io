@@ -1,10 +1,10 @@
 body {
-  background-image: url("eportfölj.jpg");
+  background-image: url("4-space.jpg");
 }
 
 h1 {
   text-align: center;
-  color: rgb(0, 0, 0);
+  color: white;
   font-size: 70px;
   font-family: "Poiret One", cursive;
 }
@@ -14,12 +14,7 @@ h2 {
   text-align: center;
   position: relative;
   top: -50px;
-}
-
-div {
-  background-color: rgb(40, 139, 143);
-  height: 50px;
-  width: 50px;
+  color: white;
 }
 
 .filip {
@@ -30,5 +25,19 @@ div {
   position: relative;
   top: -50px;
   border-radius: 50%;
-  border: 5px solid white;
+  border: 5px solid black;
+}
+
+a {
+  color: white;
+  font-family: "Chango", cursive;
+  text-decoration: none;
+  font-size: 25px;
+  position: relative;
+  left: 800px;
+}
+
+a:hover {
+  color: rgb(217, 255, 0);
+  cursor: pointer;
 }
